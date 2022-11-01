@@ -1,0 +1,2 @@
+Japon,pieza,10,00001,diamante
+Chile,arma,15,00002,madera

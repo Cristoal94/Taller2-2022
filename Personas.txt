@@ -1,0 +1,2 @@
+Pablo,123456789,piloto,GX
+Roberto,99999,admin,ADMINISTRACION

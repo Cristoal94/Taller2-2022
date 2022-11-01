@@ -1,0 +1,2 @@
+casco samurai,00005,cabeza,Japon,100
+cabeza hierro,00004,cabeza,Chile,150

@@ -1,0 +1,2 @@
+Cobre,10000,Chile
+Hierro,20000,Japon

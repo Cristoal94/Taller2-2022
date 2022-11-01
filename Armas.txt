@@ -1,0 +1,2 @@
+pistola,00004,10000,Chile,1000
+metralleta,00005,100,Argentina,5000
